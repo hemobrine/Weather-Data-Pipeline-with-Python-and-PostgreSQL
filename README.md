@@ -160,4 +160,4 @@ To run the test suite locally:
 
 ---
 
-Made with ❤️ by **Antigravity** & **Dev_Bilal**
+Made with ❤️ by **Bilal Aboqura** & **Ahmed Mobarak** & **Ibrahim Zaghloul**
